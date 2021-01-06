@@ -1,0 +1,114 @@
+\def\rank{\mathop{\rm rank}}
+\def\wgt{\mathop{\rm wgt}}
+\def\lc{\mathop{\rm lc}}
+\def\ker{\mathop{\rm Ker}}
+\def\im{\mathop{\rm Im}}
+\documentclass[aps,%prb,12pt,tightenlines,%
+pra, twocolumn,%superscriptaddress,%
+%galley,
+notitlepage,longbibliography]{revtex4-2}
+%\advance\textheight by -5.2in
+%\advance\textheight by -2.25in
+\usepackage{hyperref}
+\usepackage{amsmath}
+%\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{amsthm}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+%\usepackage{array}
+%\usepackage{enumitem}
+%\usepackage{datetime}
+\usepackage[ampersand]{easylist}
+\ListProperties(Hide=100, Hang=true, Progressive=3ex, Style*=-- ,
+Style2*=$\bullet$ ,Style3*=$\circ$ ,Style4*=\tiny$\blacksquare$ )
+% ...
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{example}[theorem]{Example}
+\newtheorem{note}[theorem]{Note}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{definition}[theorem]{Definition}
+\begin{document}
+\title{Quantum Code Zoo}
+\date\today
+\date{\today\ \bf \jobname} 
+%\date{\today\ \currenttime\ \bf \jobname} 
+\author{ZWL}
+%\affiliation{Xanadu, Toronto, ON, M5G 2C8, Canada}
+\email{weilei.zeng@foxmail.com}
+
+\begin{abstract}
+  A zoo of quantum code
+\end{abstract}
+\maketitle
+
+\tableofcontents
+
+
+\section{Introduction}
+
+
+\section{Quantum code zoo}
+
+
+
+
+
+
+easy list of quantum code
+\begin{easylist}
+  & fermion codes
+  
+  & bosonic codes
+  && GKP codes
+  && cat codes
+  
+  & CWS
+  && Stabilizer codes
+  
+  &&& CSS codes
+  &&&& QHP codes
+  &&&&& toric codes
+  &&&&& HQHP codes
+  &&&&&& toric codes in higher-Dimension
+
+  &&&& Quantum bicycle codes
+  &&&& Homological product codes
+  &&&& Lifted product codes
+  &&&& Fiber bundle codes
+  &&&& Quantum pin codes
+  &&&& 
+  
+  &&& non-CSS codes
+  &&&& rotated surface codes
+  &&&& Quantum XYZ product codes
+
+
+  && Subsystem codes
+  &&& Subsystem product codes
+  &&&& Subsystem hypergraph product codes
+  &&&&& Bacon Shor codes
+
+
+
+  && Concatenated codes
+  &&& Shor's codes
+  
+\end{easylist}
+
+
+\section{Glossary and references}
+
+
+\section{Similar projects}
+Quantum Algorithm Zoo 
+\url{https://quantumalgorithmzoo.org/}
+
+Quantum protocol Zoo
+\url{https://wiki.veriqloud.fr/index.php?title=Protocol_Library}
+
+\bibliography{WeileiBibFile}
+%\bibliography{lpp,qc_all,more_qc,ldpc,linalg,percol,sg}
+\end{document}
