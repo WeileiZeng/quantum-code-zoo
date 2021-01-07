@@ -50,23 +50,13 @@
 \providecommand \BibitemShut  [1]{\csname bibitem#1\endcsname}%
 \let\auto@bib@innerbib\@empty
 %</preamble>
-\bibitem [{\citenamefont {Bourassa}\ \emph {et~al.}(2020)\citenamefont
-  {Bourassa}, \citenamefont {Alexander}, \citenamefont {Vasmer}, \citenamefont
-  {Patil}, \citenamefont {Tzitrin}, \citenamefont {Matsuura}, \citenamefont
-  {Su}, \citenamefont {Baragiola}, \citenamefont {Guha}, \citenamefont
-  {Dauphinais} \emph {et~al.}}]{bourassa2020blueprint}%
+\bibitem [{\citenamefont {Kovalev}\ and\ \citenamefont
+  {Pryadko}()}]{kovalev1212quantum}%
   \BibitemOpen
-  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.~E.}\ \bibnamefont
-  {Bourassa}}, \bibinfo {author} {\bibfnamefont {R.~N.}\ \bibnamefont
-  {Alexander}}, \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Vasmer}},
-  \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Patil}}, \bibinfo
-  {author} {\bibfnamefont {I.}~\bibnamefont {Tzitrin}}, \bibinfo {author}
-  {\bibfnamefont {T.}~\bibnamefont {Matsuura}}, \bibinfo {author}
-  {\bibfnamefont {D.}~\bibnamefont {Su}}, \bibinfo {author} {\bibfnamefont
-  {B.~Q.}\ \bibnamefont {Baragiola}}, \bibinfo {author} {\bibfnamefont
-  {S.}~\bibnamefont {Guha}}, \bibinfo {author} {\bibfnamefont {G.}~\bibnamefont
-  {Dauphinais}}, \emph {et~al.},\ }\bibfield  {title} {\bibinfo {title}
-  {Blueprint for a scalable photonic fault-tolerant quantum computer},\
-  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {arXiv preprint
-  arXiv:2010.02905}\ } (\bibinfo {year} {2020})}\BibitemShut {NoStop}%
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
+  {Kovalev}}\ and\ \bibinfo {author} {\bibfnamefont {L.}~\bibnamefont
+  {Pryadko}},\ }\bibfield  {title} {\bibinfo {title} {Quantum
+  “hyperbicycle” low density parity check codes with finite rate},\
+  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {arXiv}\ }\textbf
+  {\bibinfo {volume} {1212}}}\BibitemShut {NoStop}%
 \end{thebibliography}%
