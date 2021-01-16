@@ -5,7 +5,9 @@
 \tocdepth@restore 
 \contentsline {section}{\numberline {I}Introduction}{1}{section*.4}
 \contentsline {section}{\numberline {II}Quantum code zoo}{1}{section*.5}
-\contentsline {section}{\numberline {III}Glossary and references}{1}{section*.6}
-\contentsline {section}{\numberline {IV}Contribution guide}{2}{section*.7}
-\contentsline {section}{\numberline {V}Similar projects}{2}{section*.8}
-\contentsline {section}{\numberline {}References}{2}{section*.9}
+\contentsline {section}{\numberline {III}Glossary and references in alphabet order}{1}{section*.6}
+\contentsline {section}{\numberline {IV}Decoders}{2}{section*.7}
+\contentsline {section}{\numberline {V}classical code}{2}{section*.8}
+\contentsline {section}{\numberline {VI}Contribution guide}{2}{section*.9}
+\contentsline {section}{\numberline {VII}Similar projects}{2}{section*.10}
+\contentsline {section}{\numberline {}References}{2}{section*.11}
