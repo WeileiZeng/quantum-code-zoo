@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  14 JAN 2021 20:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  19 JAN 2021 09:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -429,20 +429,20 @@ Underfull \hbox (badness 5374) in paragraph at lines 167--168
 []\OT1/cmr/m/n/10 Higher-dimensional quan-tum hy-per-graph prod-uct
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 258.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 265.
 
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 258.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 265.
 
-Underfull \hbox (badness 10000) in paragraph at lines 269--271
+Underfull \hbox (badness 10000) in paragraph at lines 276--278
 []\OT1/cmr/m/n/10 Quantum Al-go-rithm Zoo []$\OT1/cmtt/m/n/10 https : / /
  []
 
 
-Underfull \hbox (badness 1248) in paragraph at lines 272--274
+Underfull \hbox (badness 1248) in paragraph at lines 279--281
 []\OT1/cmr/m/n/10 Quantum pro-to-col Zoo []$\OT1/cmtt/m/n/10 https : / / wiki .
  veriqloud .
  []
@@ -455,26 +455,41 @@ Missing character: There is no ‚ in font cmr9!
 Missing character: There is no Ä in font cmr9!
 Missing character: There is no ù in font cmr9!
 
-Underfull \hbox (badness 5417) in paragraph at lines 67--73
+Underfull \hbox (badness 3780) in paragraph at lines 67--73
  []\OT1/cmr/m/n/9 N. Delfosse and M. B. Hast-ings, Union-find de-
  []
 
-) [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 287.
+[2]
+Underfull \hbox (badness 2689) in paragraph at lines 132--136
+ []\OT1/cmr/m/n/9 T. Far-relly, R. J. Har-ris, N. A. McMa-hon, and
+ []
+
+
+Underfull \hbox (badness 1454) in paragraph at lines 132--136
+ \OT1/cmr/m/n/9 T. M. Stace, Tensor-network codes, arXiv preprint
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 141--146
+ []\OT1/cmr/m/n/9 M. Vas-mer, D. E. Browne, and A. Ku-bica, Cel-lu-
+ []
+
+) [3]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 294.
  (./quantum-code-zoo.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 287.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 287.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 294.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 294.
 Package rerunfilecheck Info: File `quantum-code-zoo.out' has not changed.
 (rerunfilecheck)             Checksum: DA372057AFE982415733EF694DB1E3CD;667.
  ) 
 Here is how much of TeX's memory you used:
- 8548 strings out of 492995
- 117198 string characters out of 6132704
- 237322 words of memory out of 5000000
- 12014 multiletter control sequences out of 15000+600000
+ 8575 strings out of 492995
+ 117819 string characters out of 6132704
+ 239610 words of memory out of 5000000
+ 12035 multiletter control sequences out of 15000+600000
  10524 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 32i,8n,35p,238b,397s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 32i,8n,35p,238b,510s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><
 /usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
@@ -487,10 +502,10 @@ exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/tex
 live/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texli
 ve/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texliv
 e/2017/texmf-dist/fonts/type1/public/amsfonts/symbols/msam5.pfb>
-Output written on quantum-code-zoo.pdf (2 pages, 148697 bytes).
+Output written on quantum-code-zoo.pdf (3 pages, 152286 bytes).
 PDF statistics:
- 140 PDF objects out of 1000 (max. 8388607)
- 121 compressed objects within 2 object streams
- 19 named destinations out of 1000 (max. 500000)
+ 155 PDF objects out of 1000 (max. 8388607)
+ 135 compressed objects within 2 object streams
+ 25 named destinations out of 1000 (max. 500000)
  89 words of extra memory for PDF output out of 10000 (max. 10000000)
 

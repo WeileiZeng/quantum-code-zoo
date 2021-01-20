@@ -6,7 +6,7 @@
 %Control: page (0) single
 %Control: year (1) truncated
 %Control: production of eprint (0) enabled
-\begin{thebibliography}{5}%
+\begin{thebibliography}{10}%
 \makeatletter
 \providecommand \@ifxundefined [1]{%
  \@ifx{#1\undefined}
@@ -79,6 +79,48 @@
   }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {Physical Review
   A}\ }\textbf {\bibinfo {volume} {64}},\ \bibinfo {pages} {012310} (\bibinfo
   {year} {2001})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Panteleev}\ and\ \citenamefont
+  {Kalachev}(2020)}]{panteleev2020quantum}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {P.}~\bibnamefont
+  {Panteleev}}\ and\ \bibinfo {author} {\bibfnamefont {G.}~\bibnamefont
+  {Kalachev}},\ }\bibfield  {title} {\bibinfo {title} {Quantum ldpc codes with
+  almost linear minimum distance},\ }\href@noop {} {\bibfield  {journal}
+  {\bibinfo  {journal} {arXiv preprint arXiv:2012.04068}\ } (\bibinfo {year}
+  {2020})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Vijay}\ \emph {et~al.}(2016)\citenamefont {Vijay},
+  \citenamefont {Haah},\ and\ \citenamefont {Fu}}]{vijay2016fracton}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {S.}~\bibnamefont
+  {Vijay}}, \bibinfo {author} {\bibfnamefont {J.}~\bibnamefont {Haah}},\ and\
+  \bibinfo {author} {\bibfnamefont {L.}~\bibnamefont {Fu}},\ }\bibfield
+  {title} {\bibinfo {title} {Fracton topological order, generalized lattice
+  gauge theory, and duality},\ }\href@noop {} {\bibfield  {journal} {\bibinfo
+  {journal} {Physical Review B}\ }\textbf {\bibinfo {volume} {94}},\ \bibinfo
+  {pages} {235157} (\bibinfo {year} {2016})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Dua}\ \emph {et~al.}(2019)\citenamefont {Dua},
+  \citenamefont {Kim}, \citenamefont {Cheng},\ and\ \citenamefont
+  {Williamson}}]{dua2019sorting}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {A.}~\bibnamefont
+  {Dua}}, \bibinfo {author} {\bibfnamefont {I.~H.}\ \bibnamefont {Kim}},
+  \bibinfo {author} {\bibfnamefont {M.}~\bibnamefont {Cheng}},\ and\ \bibinfo
+  {author} {\bibfnamefont {D.~J.}\ \bibnamefont {Williamson}},\ }\bibfield
+  {title} {\bibinfo {title} {Sorting topological stabilizer models in three
+  dimensions},\ }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal}
+  {Physical Review B}\ }\textbf {\bibinfo {volume} {100}},\ \bibinfo {pages}
+  {155137} (\bibinfo {year} {2019})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Roffe}\ \emph {et~al.}(2020)\citenamefont {Roffe},
+  \citenamefont {White}, \citenamefont {Burton},\ and\ \citenamefont
+  {Campbell}}]{roffe2020decoding}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {J.}~\bibnamefont
+  {Roffe}}, \bibinfo {author} {\bibfnamefont {D.~R.}\ \bibnamefont {White}},
+  \bibinfo {author} {\bibfnamefont {S.}~\bibnamefont {Burton}},\ and\ \bibinfo
+  {author} {\bibfnamefont {E.~T.}\ \bibnamefont {Campbell}},\ }\bibfield
+  {title} {\bibinfo {title} {Decoding across the quantum ldpc code landscape},\
+  }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {arXiv preprint
+  arXiv:2005.07016}\ } (\bibinfo {year} {2020})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Farrelly}\ \emph {et~al.}(2020)\citenamefont
   {Farrelly}, \citenamefont {Harris}, \citenamefont {McMahon},\ and\
   \citenamefont {Stace}}]{farrelly2020tensor}%
@@ -90,6 +132,16 @@
   {Stace}},\ }\bibfield  {title} {\bibinfo {title} {Tensor-network codes},\
   }\href@noop {} {\bibfield  {journal} {\bibinfo  {journal} {arXiv preprint
   arXiv:2009.10329}\ } (\bibinfo {year} {2020})}\BibitemShut {NoStop}%
+\bibitem [{\citenamefont {Vasmer}\ \emph {et~al.}(2020)\citenamefont {Vasmer},
+  \citenamefont {Browne},\ and\ \citenamefont {Kubica}}]{vasmer2020cellular}%
+  \BibitemOpen
+  \bibfield  {author} {\bibinfo {author} {\bibfnamefont {M.}~\bibnamefont
+  {Vasmer}}, \bibinfo {author} {\bibfnamefont {D.~E.}\ \bibnamefont {Browne}},\
+  and\ \bibinfo {author} {\bibfnamefont {A.}~\bibnamefont {Kubica}},\
+  }\bibfield  {title} {\bibinfo {title} {Cellular automaton decoders for
+  topological quantum codes with noisy measurements and beyond},\ }\href@noop
+  {} {\bibfield  {journal} {\bibinfo  {journal} {arXiv preprint
+  arXiv:2004.07247}\ } (\bibinfo {year} {2020})}\BibitemShut {NoStop}%
 \bibitem [{\citenamefont {Ferris}\ and\ \citenamefont
   {Poulin}(2014)}]{ferris2014branching}%
   \BibitemOpen

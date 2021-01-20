@@ -27,45 +27,45 @@ Control: page (0) single
 Control: year (1) truncated
 Control: production of eprint (0) enabled
 Warning--empty year in kovalev1212quantum
-You've used 7 entries,
+You've used 12 entries,
             6079 wiz_defined-function locations,
-            1663 strings with 15819 characters,
-and the built_in function-call counts, 6074 in all, are:
-= -- 393
-> -- 133
-< -- 58
-+ -- 44
-- -- 46
-* -- 865
-:= -- 561
-add.period$ -- 5
-call.type$ -- 7
-change.case$ -- 25
-chr.to.int$ -- 17
-cite$ -- 8
-duplicate$ -- 619
-empty$ -- 399
-format.name$ -- 73
-if$ -- 1165
+            1690 strings with 16642 characters,
+and the built_in function-call counts, 11345 in all, are:
+= -- 778
+> -- 272
+< -- 82
++ -- 86
+- -- 78
+* -- 1658
+:= -- 1062
+add.period$ -- 10
+call.type$ -- 12
+change.case$ -- 50
+chr.to.int$ -- 22
+cite$ -- 13
+duplicate$ -- 1108
+empty$ -- 782
+format.name$ -- 154
+if$ -- 2244
 int.to.chr$ -- 1
-int.to.str$ -- 14
-missing$ -- 99
-newline$ -- 67
-num.names$ -- 15
-pop$ -- 276
+int.to.str$ -- 19
+missing$ -- 174
+newline$ -- 82
+num.names$ -- 30
+pop$ -- 489
 preamble$ -- 1
-purify$ -- 24
+purify$ -- 49
 quote$ -- 0
-skip$ -- 257
+skip$ -- 492
 stack$ -- 0
-substring$ -- 135
-swap$ -- 543
-text.length$ -- 14
+substring$ -- 238
+swap$ -- 994
+text.length$ -- 30
 text.prefix$ -- 0
 top$ -- 10
-type$ -- 80
+type$ -- 151
 warning$ -- 2
-while$ -- 25
+while$ -- 37
 width$ -- 0
-write$ -- 93
+write$ -- 135
 (There were 2 warnings)
